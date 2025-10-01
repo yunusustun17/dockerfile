@@ -1,1 +1,1 @@
-FROM containous/whoami
+FROM docker.io/containous/whoami
